@@ -30,7 +30,7 @@ importers:
         specifier: ^17.0.1
         version: 17.0.2
       react-dom:
-        specifier: ^17.0.1
+        specifier: ^17.0.2
         version: 17.0.2(react@17.0.2)
       react-scripts:
         specifier: 4.0.0
